@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "jsart",
+    "style": "css",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}
